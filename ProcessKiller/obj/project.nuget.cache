@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5QUXoa0eyHi0Yr6ryMrH05cqV9TPXVsFDV7O47A8ZnNXonHXhc0Jz6sO6yPJblrRCahgtF/ASIU5SOSi5DAeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lorand\\Desktop\\project\\ProcessKiller\\ProcessKiller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lorand\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
